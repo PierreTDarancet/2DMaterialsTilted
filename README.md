@@ -2,6 +2,8 @@
 
 A Python tool for generating low-symmetry, orthorhombic supercells of 2D materials (specifically MoS₂) tilted under periodic boundary conditions.
 
+![](Cell1.png?raw=true)
+
 ## 📌 Problem Overview
 
 In Density Functional Theory (DFT) calculations involving finite electric fields (e.g., Berry phase, sawtooth potentials) or specific dislocation geometries, it is often necessary to break the standard alignment of the 2D material with the simulation cell axes while maintaining **Periodic Boundary Conditions (PBC)** and an **orthorhombic** cell shape.
