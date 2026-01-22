@@ -2,7 +2,7 @@
 
 A Python tool for generating low-symmetry, orthorhombic supercells of 2D materials (specifically MoS₂) tilted under periodic boundary conditions.
 
-![](Cell1.png?raw=true)
+![](Cell1.jpg?raw=true)
 
 ## 📌 Problem Overview
 
